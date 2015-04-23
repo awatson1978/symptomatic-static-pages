@@ -7,7 +7,7 @@ About, eula, and privacy pages for Symptomatic.io apps.
 ####  Installation  
 
 ````sh
-meteor add clinical:symptomatic-static-pages
+#meteor add clinical:symptomatic-static-pages
 ````
 
 =========================
