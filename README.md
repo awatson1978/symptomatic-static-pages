@@ -1,13 +1,13 @@
-##clinical-static-pages
+##symptomatic-static-pages
 
-Add glossary, about, eula, and privacy pages to your ClinicalFramework app.
+About, eula, and privacy pages for Symptomatic.io apps.
 
 
 =========================
 ####  Installation  
 
 ````sh
-meteor add clinical:static-pages
+meteor add clinical:symptomatic-static-pages
 ````
 
 =========================
